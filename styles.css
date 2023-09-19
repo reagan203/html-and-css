@@ -1,0 +1,36 @@
+#paragraph-one {
+    color: crimson;
+}
+
+/*this is some comment*/
+.paragraph {
+    color: brown;
+}
+/* p{
+    background-color: chocolate;
+} */
+h1{
+    color: aqua;
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: burlywood;
+}
+
+
+/* child selector */
+div >p{
+    color: coral;
+}
+
+/* universal selector */
+*{
+    font-weight: 900;
+}
+
+/* body selector */
+body{
+    background-color: coral;
+}
